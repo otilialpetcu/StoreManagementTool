@@ -1,0 +1,2 @@
+ALTER TABLE user_store
+ADD COLUMN user_role VARCHAR(255) DEFAULT 'CLIENT';

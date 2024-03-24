@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS "order_item";
+DROP TABLE IF EXISTS "order";
+DROP TABLE IF EXISTS "product";
+DROP TABLE IF EXISTS "user_store";
